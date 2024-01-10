@@ -1,2 +1,2 @@
-# fonts
-Fonts released by Rune Revival
+# Fonts
+Here you will find fonts released by Rune Revival.
